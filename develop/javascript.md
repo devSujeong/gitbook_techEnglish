@@ -31,6 +31,7 @@
 * control flow statement - 제어문
 * expression - 표현
 * nullish coalescing operator - null 병합 연산
+* dot notation - 점 표기
 
 
 
