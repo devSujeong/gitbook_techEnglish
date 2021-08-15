@@ -32,6 +32,12 @@
 * expression - 표현
 * nullish coalescing operator - null 병합 연산
 * dot notation - 점 표기
+* pass - 전달하
+* shallow copy - 얕은 복사
+* parameter - 매개변수
+* argument - 인수
+* function call, function invoke - 함수 호
+* **recursive function - 재귀함**
 
 
 
