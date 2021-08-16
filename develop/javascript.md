@@ -37,7 +37,13 @@
 * parameter - 매개변수
 * argument - 인수
 * function call, function invoke - 함수 호출
-* **recursive function - 재귀함**
-
+* **recursive function - 재귀함수**
+* superseded - 폐기된
+* internal slot - 내부 슬롯
+* pseudo property - 의사 프로퍼티
+* writable - 갱신 가능한
+* enumerable - 열거 가능한
+* configurable - 재정의 가능
+* 
 
 
