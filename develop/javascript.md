@@ -32,12 +32,18 @@
 * expression - 표현
 * nullish coalescing operator - null 병합 연산
 * dot notation - 점 표기
-* pass - 전달하
+* pass - 전달하다
 * shallow copy - 얕은 복사
 * parameter - 매개변수
 * argument - 인수
-* function call, function invoke - 함수 호
-* **recursive function - 재귀함**
-
+* function call, function invoke - 함수 호출
+* **recursive function - 재귀함수**
+* superseded - 폐기된
+* internal slot - 내부 슬롯
+* pseudo property - 의사 프로퍼티
+* writable - 갱신 가능한
+* enumerable - 열거 가능한
+* configurable - 재정의 가능
+* 
 
 
