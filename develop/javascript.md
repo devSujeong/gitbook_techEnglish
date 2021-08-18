@@ -44,6 +44,5 @@
 * writable - 갱신 가능한
 * enumerable - 열거 가능한
 * configurable - 재정의 가능
+* ordinary object - 일반 객체
 * 
-
-
