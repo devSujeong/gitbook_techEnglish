@@ -45,4 +45,7 @@
 * enumerable - 열거 가능한
 * configurable - 재정의 가능
 * ordinary object - 일반 객체
-* 
+* imperative - 명령
+* abstraction - 추상화
+* circular reference - 순환 참조
+
